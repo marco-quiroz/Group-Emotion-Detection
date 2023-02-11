@@ -18,6 +18,9 @@ The dataset is composed of images and videos, images are classified according to
 
 This dataset was generated in ROS/Gazebo, this data can be found [here](https://github.com/marco-quiroz/Dataset-in-ROS).
 
+### Execution
+- First notebook, contains the EMOTIC procesing, modalities input adequation, and the training and test of four independent modalities and of the multi-modal method.
+- Second notebook, contains the procedures for carry out the inferences of the test results, and the procedures for fully use of the method, from input image to get the output, calculating the execution time.
 
 
 

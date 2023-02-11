@@ -12,7 +12,9 @@ The final result is shown in the following [Video](https://youtu.be/sabojnDs630)
 ## Data Used
 The dataset is composed of images and videos, images are classified according to the 6 basic emotions (happy, sad, angry, surprise, disgust, fear) and videos are classified as negative, neutral or positive emotions.
 
-<img src="figures/Emotions.png" alt="data example" width="500"/>
+<div align="center">
+  <img src="figures/Emotions.png" alt="data example" width="500"/>
+</div>
 
 This dataset was generated in ROS/Gazebo, this data can be found [here](https://github.com/marco-quiroz/Dataset-in-ROS).
 

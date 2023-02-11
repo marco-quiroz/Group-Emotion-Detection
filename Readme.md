@@ -7,3 +7,21 @@ The objective of this project is to detect group emotions in social environments
 </div>
 
 The final result is shown in the following [Video](https://youtu.be/sabojnDs630). The simulation of the social environment is done on Ubuntu 18.04. This repository includes the implementation of the proposed method in a Google Colab environment, therefore only one video is analyzed to detect group emotions.
+
+## Citation
+If you use our code or models in your research, please cite with:
+```
+@article{quiroz2022group,
+  title={Group emotion detection based on social robot perception},
+  author={Quiroz, Marco and Pati{\~n}o, Raquel and Diaz-Amado, Jos{\'e} and Cardinale, Yudith},
+  journal={Sensors},
+  volume={22},
+  number={10},
+  pages={3749},
+  year={2022},
+  publisher={MDPI}
+}
+```
+
+### Acknowledgments
+This research was supported by the FONDO NACIONAL DEDESARROLLO CIENTÍFICO, TECNOLÓGICO Y DE INNOVACIÓN TECNOLÓGICA - FONDECYT as executing entity of CONCYTEC under grant agreement no.01-2019-FONDECYT-BM-INC.INV in the project RUTAS: Robots for Urban Tourism,Autonomous and Semantic web based.

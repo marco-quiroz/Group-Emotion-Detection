@@ -6,4 +6,4 @@ The objective of this project is to detect group emotions in social environments
   <img src="figures/scenes_method.png" alt="Group Emotions Detection" width="800"/>
 </div>
 
-
+The final result is shown in the following [Video] (https://youtu.be/sabojnDs630). The simulation of the social environment is done on Ubuntu 18.04. This repository includes the implementation of the proposed method in a Google Colab environment, therefore only one video is analyzed to detect group emotions.

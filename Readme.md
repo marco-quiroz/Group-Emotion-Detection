@@ -10,19 +10,12 @@ The final result is shown in the following [Video](https://youtu.be/sabojnDs630)
 
 
 ## Data Used
+The dataset is composed of images and videos, images are classified according to the 6 basic emotions (happy, sad, angry, surprise, disgust, fear) and videos are classified as negative, neutral or positive emotions.
 
-<img src="figures/Emotions.png" alt="data example" width="800"/>
-<!-- ![alt text](https://github.com/juan1t0/multimodalDLforER/blob/master/figures/data_example.png) -->
+<img src="figures/Emotions.png" alt="data example" width="500"/>
 
-The used data are shared [here](https://drive.google.com/file/d/1JAGejLFaymrIsq44icV42IdaAdydSdk9/view?usp=sharing), this zip contains all the data for each modality in numpy array format.
+This dataset was generated in ROS/Gazebo, this data can be found [here](https://github.com/marco-quiroz/Dataset-in-ROS).
 
-This dataset is acquire form the original [EMOTIC dataset](http://sunai.uoc.edu/emotic/download.html).
-
-Moreover, the number of annotated emotions in EMOTIC (26) were reduced by grouping, following the taxonomy of Mr. Plutchik, into eight groups.
-
-
-
-The weighted random sampler from pytorch was used in training time trying to solve the unbalancing of the EMOTIC dataset.
 
 
 

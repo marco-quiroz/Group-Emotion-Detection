@@ -8,7 +8,25 @@ The objective of this project is to detect group emotions in social environments
 
 The final result is shown in the following [Video](https://youtu.be/sabojnDs630). The simulation of the social environment is done on Ubuntu 18.04. This repository includes the implementation of the proposed method in a Google Colab environment, therefore only one video is analyzed to detect group emotions.
 
-## Citation
+
+## Data Used
+
+<img src="figures/Emotions.png" alt="data example" width="800"/>
+<!-- ![alt text](https://github.com/juan1t0/multimodalDLforER/blob/master/figures/data_example.png) -->
+
+The used data are shared [here](https://drive.google.com/file/d/1JAGejLFaymrIsq44icV42IdaAdydSdk9/view?usp=sharing), this zip contains all the data for each modality in numpy array format.
+
+This dataset is acquire form the original [EMOTIC dataset](http://sunai.uoc.edu/emotic/download.html).
+
+Moreover, the number of annotated emotions in EMOTIC (26) were reduced by grouping, following the taxonomy of Mr. Plutchik, into eight groups.
+
+
+
+The weighted random sampler from pytorch was used in training time trying to solve the unbalancing of the EMOTIC dataset.
+
+
+
+### Citation
 If you use our code or models in your research, please cite with:
 ```
 @article{quiroz2022group,
@@ -23,5 +41,5 @@ If you use our code or models in your research, please cite with:
 }
 ```
 
-### Acknowledgments
+#### Acknowledgments
 This research was supported by the FONDO NACIONAL DEDESARROLLO CIENTÍFICO, TECNOLÓGICO Y DE INNOVACIÓN TECNOLÓGICA - FONDECYT as executing entity of CONCYTEC under grant agreement no.01-2019-FONDECYT-BM-INC.INV in the project RUTAS: Robots for Urban Tourism,Autonomous and Semantic web based.

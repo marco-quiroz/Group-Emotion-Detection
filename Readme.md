@@ -47,6 +47,13 @@ Clone the files in your personal folder:
 git clone https://github.com/marco-quiroz/Group-Emotion-Detection.git
 ```
 
+Clone the files in your personal folder:
+
+```
+cd ~/cvbridge_build_ws 
+catkin_make
+```
+
 ## Citation
 If you use our code or models in your research, please cite with:
 ```

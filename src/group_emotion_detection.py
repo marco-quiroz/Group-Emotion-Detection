@@ -49,7 +49,6 @@ def visualize_predictions(a):
 def escenas(i,fr,area2,armax,lista, lista1,listo,listo1,f,g,esce):
   if len(area2)==fr:
     armaxi=max(area2[i:fr])
-    print('Size',armaxi)
     armax.append(armaxi)
     fr=fr+20
     i=i+20

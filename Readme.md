@@ -44,7 +44,7 @@ This dataset was generated in ROS/Gazebo, this data can be found [here](https://
 Clone the files in your personal folder:
 
 ```
-git clone 
+git clone https://github.com/marco-quiroz/Group-Emotion-Detection.git
 ```
 
 ## Citation

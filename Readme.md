@@ -62,7 +62,7 @@ Convert the python file into an executable:
 chmod +x group_emotion_detection.py
 ```
 
-
+Before running the code, download the VGG network weights and put the correct location of all the files (deploy.prototxt, res10_300x300_ssd_iter_140000.caffemodel, model-ros.2.h5).
 
 Use the package name to directly run the python file:
 ```

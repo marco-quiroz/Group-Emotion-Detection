@@ -39,6 +39,14 @@ This dataset was generated in ROS/Gazebo, this data can be found [here](https://
 - tqdm
 - imutils
 
+### Installation
+
+```
+sudo apt-get install python3-pip python-catkin-tools python3-dev python3-numpy 
+
+sudo pip3 install rospkg catkin_pkg
+```
+
 ## Citation
 If you use our code or models in your research, please cite with:
 ```

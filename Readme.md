@@ -50,7 +50,7 @@ git clone https://github.com/marco-quiroz/Group-Emotion-Detection.git
 Clone the files in your personal folder:
 
 ```
-cd ~/cvbridge_build_ws 
+cd ~/catkin_ws
 catkin_make
 ```
 

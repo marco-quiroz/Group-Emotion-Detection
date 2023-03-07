@@ -31,10 +31,11 @@ This dataset was generated in ROS/Gazebo, this data can be found [here](https://
 ## Implementation in ROS
 ### Requeriments
 
-- Ubuntu 18.04
-- tensorflow >= 1.6
-- numpy
-- cv2
+- ROS Melodic
+- Ubuntu 18.04.5
+- Python 3.6.9
+- Tensorflow 2.6.2
+- OpenCV 4.6.0
 - tqdm
 - imutils
 

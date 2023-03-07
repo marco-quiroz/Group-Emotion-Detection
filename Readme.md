@@ -29,6 +29,9 @@ This dataset was generated in ROS/Gazebo, this data can be found [here](https://
 </div>
 
 ## Implementation in ROS
+
+In this case, ROS Melodic is used and by default cv_bridge works with python 2. You have to configure cv_bridge so that it can be used with python 3. Finally, you must have a workspace, with a virtual environment and a robot capable of capturing images.
+
 ### Requeriments
 
 - ROS Melodic

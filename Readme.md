@@ -41,10 +41,10 @@ This dataset was generated in ROS/Gazebo, this data can be found [here](https://
 
 ### Installation
 
-```
-sudo apt-get install python3-pip python-catkin-tools python3-dev python3-numpy 
+Clone the files in your personal folder:
 
-sudo pip3 install rospkg catkin_pkg
+```
+git clone 
 ```
 
 ## Citation

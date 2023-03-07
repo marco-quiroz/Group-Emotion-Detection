@@ -18,7 +18,7 @@ The dataset is composed of images and videos, images are classified according to
 
 This dataset was generated in ROS/Gazebo, this data can be found [here](https://github.com/marco-quiroz/Dataset-in-ROS).
 
-## Execution
+## Implementation in Google Colab
 - To perform group emotion detection, three files need to be uploaded. The first two files are needed to detect faces. And the third file contains the weights of the VGGFace pretrained network, this file can be found at this [link](https://drive.google.com/file/d/1r-3oluA833Qg4tn_VGOqM51wGTxoggYg/view?usp=share_link).
 
 - In the notebook [NN_ROS_Emotions.ipynb](https://drive.google.com/file/d/1bEwHFXNVjBaIasJLGC8vYHSqkS8pdq2z/view?usp=share_link), the detection of group emotions is performed. When uploading a video you will see the following results: individual emotions, frame emotion, scene emotion and scene.
@@ -27,6 +27,8 @@ This dataset was generated in ROS/Gazebo, this data can be found [here](https://
   <img src="figures/result.png" alt="data example" width="500"/>
 </div>
 
+## Implementation in ROS
+- To perform group emotion detection, three files need to be uploaded. The first two files are needed to detect faces. And the third file contains the weights of the VGGFace pretrained network, this file can be found at this [link](https://drive.google.com/file/d/1r-3oluA833Qg4tn_VGOqM51wGTxoggYg/view?usp=share_link).
 
 ## Citation
 If you use our code or models in your research, please cite with:

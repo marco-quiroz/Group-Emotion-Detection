@@ -13,10 +13,6 @@ The final result is shown in the following [Video](https://youtu.be/sabojnDs630)
 The dataset is composed of images and videos, images are classified according to the 6 basic emotions (happy, sad, angry, surprise, disgust, fear) and videos are classified as negative, neutral or positive emotions.
 
 <div align="center">
-
-https://user-images.githubusercontent.com/68673578/223371846-620d59ab-af8d-4a6b-99bd-8c11c04c1f5a.mp4
-
-
   <img src="figures/Emotions.png" alt="data example" width="500"/>
 </div>
 
@@ -70,7 +66,7 @@ rosrun Group-Emotion-Detection group_emotion_detection.py
 
 Use the package name to directly run the python file:
 <div align="center">
-  <video src="video/Emotion of a Scene in ROS.mp4" alt="Group Emotions Detection" width="800"/>
+  https://user-images.githubusercontent.com/68673578/223371846-620d59ab-af8d-4a6b-99bd-8c11c04c1f5a.mp4
 </div>
 
 

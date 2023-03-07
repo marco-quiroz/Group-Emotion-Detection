@@ -66,7 +66,7 @@ rosrun Group-Emotion-Detection group_emotion_detection.py
 
 Use the package name to directly run the python file:
 <div align="center">
-  <img src="figures/scenes_method.png" alt="Group Emotions Detection" width="800"/>
+  <video src="video/Emotion of a Scene in ROS.mp4" alt="Group Emotions Detection" width="800"/>
 </div>
 
 

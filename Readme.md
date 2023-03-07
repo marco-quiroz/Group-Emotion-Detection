@@ -65,9 +65,8 @@ rosrun Group-Emotion-Detection group_emotion_detection.py
 ```
 
 Use the package name to directly run the python file:
-<div align="center">
-  https://user-images.githubusercontent.com/68673578/223371846-620d59ab-af8d-4a6b-99bd-8c11c04c1f5a.mp4
-</div>
+https://user-images.githubusercontent.com/68673578/223371846-620d59ab-af8d-4a6b-99bd-8c11c04c1f5a.mp4
+
 
 
 ## Citation

@@ -41,13 +41,13 @@ This dataset was generated in ROS/Gazebo, this data can be found [here](https://
 
 ### Installation
 
-Clone the files in your personal folder:
+Clone the files in your personal folder (/catkin_ws/src/):
 
 ```
 git clone https://github.com/marco-quiroz/Group-Emotion-Detection.git
 ```
 
-Clone the files in your personal folder:
+We compile the package:
 
 ```
 cd ~/catkin_ws

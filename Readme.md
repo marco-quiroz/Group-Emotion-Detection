@@ -47,12 +47,24 @@ Clone the files in your personal folder (/catkin_ws/src/):
 git clone https://github.com/marco-quiroz/Group-Emotion-Detection.git
 ```
 
-We compile the package:
+Compile the package:
 
 ```
 cd ~/catkin_ws
 catkin_make
 ```
+
+Convert the python file into an executable:
+```
+chmod +x group_emotion_detection.py
+```
+
+Use the package name to directly run the python file:
+```
+rosrun Group-Emotion-Detection group_emotion_detection.py
+```
+
+
 
 ## Citation
 If you use our code or models in your research, please cite with:
